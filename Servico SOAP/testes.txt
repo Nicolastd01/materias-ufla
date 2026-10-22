@@ -1,0 +1,4 @@
+node .\calculator_sync.js 10 5 adicionar; node .\calculator_sync.js 10 5 subtrair; node .\calculator_sync.js 10 5 multiplicar; node .\calculator_sync.js 10 5 dividir
+
+node .\calculator_async.js 10 5 adicionar; node .\calculator_async.js 10 5 subtrair; node .\calculator_async.js 10 5 multiplicar; node .\calculator_async.js 10 5 dividir
+
